@@ -68,9 +68,10 @@ I am a passionate **Full Stack Developer** focused on building scalable web appl
 
 ## 📫 Connect With Me
 * LinkedIn: [https://linkedin.com/in/Ramjan-Ansari](https://www.linkedin.com/in/ramjan-ansari-426b91315/)
+* 👨‍💻 View My [Projects](https://github.com/Ramjan-Ansari?tab=repositories)
 ---
 
-⭐ **Always learning, always building, always improving.**
+ ⭐ **Always learning, building, improving.**
 
 
 <!--

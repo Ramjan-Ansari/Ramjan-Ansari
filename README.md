@@ -43,6 +43,7 @@ I am a passionate **Full Stack Developer** focused on building scalable web appl
 
  **Database**
 - `MongoDB`
+  • `PostgreSQL`
 
  **Languages** 
  - `Java` 

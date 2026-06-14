@@ -48,6 +48,7 @@ I am a passionate **Full Stack Developer** focused on building scalable web appl
  **Languages** 
  - `Java` 
 • `JavaScript`
+• `TypeScript`
 
  **Tools**  
  - `Git`
